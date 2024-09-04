@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: source_data
+    description: Source data
+    database: FIRST_EXERCISE
+    schema: SOURCE
+    tables:
+      - name: Customer 
+      - name: Market
+      - name: Order_Details
+      - name: Product
+      - name: Shipping
+
